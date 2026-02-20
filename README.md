@@ -41,5 +41,3 @@ The goal of this project was to create an aesthetic and emotionally comforting i
 - Media Queries for Responsive Design  
 
 ---
-
-## 📁 Project Structure
